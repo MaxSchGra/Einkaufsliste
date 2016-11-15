@@ -11,4 +11,4 @@
 	
 ##Bild
 
-![Alternativ Affe](serveimage "Affe")
+![Alternativ Affe](https://github.com/MaxSchGra/Einkaufsliste/blob/master/serveimage.jpg "Affe")
