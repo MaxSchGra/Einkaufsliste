@@ -8,3 +8,7 @@
 	* Elektroniker
 * Hobbys:
 	* Fussballspielen
+	
+##Bild
+
+![Alternativ Affe](serveimage "Affe")
